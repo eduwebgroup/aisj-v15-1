@@ -17,3 +17,15 @@
 	path = eduwebgroup/sincro_data_base
 	url = git@github.com:eduwebgroup/sincro_data_base.git
 	branch = 15.0
+[submodule "eduwebgroup/pos_pr"]
+	path = eduwebgroup/pos_pr
+	url = git@github.com:eduwebgroup/pos_pr.git
+	branch = 15.0
+[submodule "eduwebgroup/pos_school"]
+	path = eduwebgroup/pos_school
+	url = git@github.com:eduwebgroup/pos_school.git
+	branch = 15.0
+[submodule "eduwebgroup/pos_pr_school"]
+	path = eduwebgroup/pos_pr_school
+	url = git@github.com:eduwebgroup/pos_pr_school.git
+	branch = 15.0
