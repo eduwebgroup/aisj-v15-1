@@ -32,3 +32,4 @@
 [submodule "eduwebgroup/pos_facts"]
 	path = eduwebgroup/pos_facts
 	url = git@github.com:eduwebgroup/pos_facts.git
+	branch = 15.0
