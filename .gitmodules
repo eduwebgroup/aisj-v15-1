@@ -36,6 +36,8 @@
 [submodule "eduwebgroup/wallet"]
 	path = eduwebgroup/wallet
 	url = git@github.com:eduwebgroup/wallet.git
+	branch = 15.0
 [submodule "eduwebgroup/edoob_wallet"]
 	path = eduwebgroup/edoob_wallet
 	url = git@github.com:eduwebgroup/edoob_wallet.git
+	branch = 15.0
