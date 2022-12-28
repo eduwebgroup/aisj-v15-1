@@ -29,3 +29,15 @@
 	path = eduwebgroup/pos_pr_school
 	url = git@github.com:eduwebgroup/pos_pr_school.git
 	branch = 15.0
+[submodule "eduwebgroup/pos_facts"]
+	path = eduwebgroup/pos_facts
+	url = git@github.com:eduwebgroup/pos_facts.git
+	branch = 15.0
+[submodule "eduwebgroup/wallet"]
+	path = eduwebgroup/wallet
+	url = git@github.com:eduwebgroup/wallet.git
+	branch = 15.0
+[submodule "eduwebgroup/edoob_wallet"]
+	path = eduwebgroup/edoob_wallet
+	url = git@github.com:eduwebgroup/edoob_wallet.git
+	branch = 15.0
